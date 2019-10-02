@@ -1,0 +1,4 @@
+#Wed Oct 02 19:04:47 EET 2019
+base.0=/Users/canberkozcelik/Documents/Garbages/TryingRxJava/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
